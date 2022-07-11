@@ -1,0 +1,9 @@
+requests~=2.24.0
+Flask~=1.1.2
+Flask-RESTful
+Flask_APScheduler
+matplotlib~=3.3.4
+geatpy==2.6.0
+numpy
+pandas
+pymysql
